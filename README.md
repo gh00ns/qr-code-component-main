@@ -7,4 +7,4 @@ Challenge #1 - First ever web-development project!
 
 ### Screenshot
 
-!["Screenshot of solution."](./images/screenshot.jpg)
+!["Screenshot of solution."](./images/screenshot.png)
